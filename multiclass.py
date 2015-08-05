@@ -12,7 +12,7 @@ Y = np.vstack(((np.zeros(N_c)).reshape(N_c, 1), np.ones(N_c).reshape(N_c, 1), 2*
 K = 3
 N = K*N_c
 
-# Run gradient descent hhhhhff
+# Run gradient descent hhhhhffhh
 eta = 1
 max_iter = 1000
 w = np.zeros((3, 3))
