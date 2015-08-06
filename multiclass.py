@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 import numpy as np
 
-# Generate three random clusters of 2D data
+# Generate three random clusters of 2D data bbb
 N_c = 200
 A = 0.6*np.random.randn(N_c, 2)+[1, 1]
 B = 0.6*np.random.randn(N_c, 2)+[3, 3]
